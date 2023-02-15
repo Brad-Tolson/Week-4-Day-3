@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Soloist';
+    src: url('./fonts/soloist/soloist1.ttf') format('truetype');
+  }
+
+h1 {
+    font-family: 'Star Jedi', sans-serif;
+  }
+body {
+    background-image: url('https://lumiere-a.akamaihd.net/v1/images/alderaan-3-retina_45d076ff.jpeg?region=0%2C0%2C1200%2C544');
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+  h2 {
+    font-family: 'Soloist';
+    font-size: 4rem;
+    font-weight: bold;
+    text-align: center;
+    margin: 1rem auto;
+    color: blue;
+    text-shadow: 1px 1px 1px black;
+    letter-spacing: 2px;
+  }
+  
+  
